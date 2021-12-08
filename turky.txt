@@ -1,12 +1,7 @@
-# Applied filters:
-#   type: ipv4
-#   iso country code: TC
-#   source: delegated
-#   status: allocated, assigned
-#   mode: aggregated
-#
-# Generated: 2021-12-08 04:44
-# IP blocks: 7
+# Country: turky
+# IP version: IPv4
+# Delegation status: Allocated || Assigned
+# Mode: Aggregated
 #
 65.255.48.0/20
 142.54.204.0/22
