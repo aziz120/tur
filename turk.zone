@@ -1,0 +1,21 @@
+# IPverse.net IP address block list
+# http://ipverse.net/ipblocks/data/countries/tc.zone
+#
+# Applied filters:
+#   type: ipv4
+#   iso country code: TC
+#   source: delegated
+#   status: allocated, assigned
+#   mode: aggregated
+#
+# Generated: 2021-12-08 04:44
+# IP blocks: 7
+#
+65.255.48.0/20
+142.54.204.0/22
+192.203.37.0/24
+199.103.28.0/22
+199.182.192.0/22
+204.13.104.0/22
+204.110.56.0/21
+185.67.34.0/22
